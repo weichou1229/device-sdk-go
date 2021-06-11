@@ -6,7 +6,7 @@ require (
 	github.com/edgexfoundry/go-mod-bootstrap/v2 v2.0.0-dev.61
 	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.0.0-dev.90
 	github.com/edgexfoundry/go-mod-messaging/v2 v2.0.0-dev.15
-	github.com/edgexfoundry/go-mod-registry/v2 v2.0.0-dev.7
+	github.com/edgexfoundry/go-mod-registry/v2 v2.0.0-dev.8
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/mux v1.8.0
 	github.com/pelletier/go-toml v1.9.1
